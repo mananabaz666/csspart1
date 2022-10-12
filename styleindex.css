@@ -13,6 +13,8 @@
 
                  }
 
+
+
                  img{
 
                        border-style: solid;
@@ -74,6 +76,7 @@
 
           .head{
                 background-color: #ADDDD0;
+                text-align: center;
                 background-position: center;
                 height: 50px;
                 width: 1500px;
